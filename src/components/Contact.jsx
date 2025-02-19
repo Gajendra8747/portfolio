@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-// import linkedin from "../assets/linkedin.webp";
+ import linkedin from "../assets/linkedin.webp";
 
 import email from '../assets/email1.png'
 import twitter from '../assets/twitterr.png';
@@ -18,7 +18,7 @@ const Contact = () => {
     {
       platform: "LinkedIn",
       link: "https://www.linkedin.com/in/gajendra-gour-107339287",
-      // icon: `${linkedin}`,
+      icon: `${linkedin}`,
       color: "hover:text-blue-600",
       description: "Connect with me on LinkedIn",
       image: "https://cdn3d.iconscout.com/3d/premium/thumb/linkedin-5727013-4784900.png"

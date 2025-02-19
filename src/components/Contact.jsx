@@ -3,7 +3,7 @@ import { FaEnvelope, FaLinkedin, FaTwitter, FaInstagram } from 'react-icons/fa'
 import linkedin from '../assets/linkedin.webp'
 import email from '../assets/email1.png'
 import twitter from '../assets/twitterr.png';
-import insta from '../assets/insta.WEBP';
+import insta from '../assets/insta.webp';
 
 const Contact = () => {
   const socialLinks = [

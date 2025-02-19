@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
-import { FaEnvelope, FaLinkedin, FaTwitter, FaInstagram } from 'react-icons/fa'
-import linkedin from '../assets/linkedin.webp' 
+import linkedin from "../assets/linkedin.webp";
+
 import email from '../assets/email1.png'
 import twitter from '../assets/twitterr.png';
 import insta from '../assets/insta.webp';

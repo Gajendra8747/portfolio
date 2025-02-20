@@ -1,9 +1,9 @@
 import { motion } from 'framer-motion'
- import linkedin from "../assets/linkedin.webp";
+ import linkedin from "../assets/linkedin.png";
 
 import email from '../assets/email1.png'
 import twitter from '../assets/twitterr.png';
-import insta from '../assets/insta.webp';
+import insta from '../assets/insta.png';
 
 const Contact = () => {
   const socialLinks = [

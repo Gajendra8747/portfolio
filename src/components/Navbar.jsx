@@ -5,7 +5,7 @@ import download from '../assets/download.png'
 import resume from '../assets/resume1.png'
 import experi from '../assets/experience.png'
 import contact from '../assets/contact.png'
-import project from '../assets/project1.webp'
+import project from '../assets/project1.png'
 
 const Navbar = ({ darkMode, toggleDarkMode }) => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)

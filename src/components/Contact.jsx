@@ -1,6 +1,5 @@
 import { motion } from 'framer-motion'
- import linkedin from "../assets/linkedin.png";
-
+import linkedin from "../assets/linkedin.png";
 import email from '../assets/email1.png'
 import twitter from '../assets/twitterr.png';
 import insta from '../assets/insta.png';
